@@ -1,5 +1,6 @@
 
 # Preloader
+[params]
 [params.preloader]
 enable = false
 preloader = "" # use .png , .svg or .gif format
