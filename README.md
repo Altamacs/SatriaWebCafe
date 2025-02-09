@@ -47,13 +47,12 @@
 # clone the repository
 git clone git@github.com:gethugothemes/restaurant-hugo.git
 
-# setup project
-$ npm run project-setup
+# cd in the project directory
+$ cd restaurant-hugo/exampleSite/
 
 # Start local dev server
-$ npm run dev
+$ hugo server --themesDir ../..
 ```
-
 
 Or Check out [Full Documentation](https://docs.gethugothemes.com/restaurant/?ref=github).
 

@@ -7,23 +7,30 @@ hero_area:
 ################### Gallery ###################
 gallery:
   enable : true
-  title : "FEATURED WORKS"
+  title : "Menu Baru"
   images:
     - "images/slider/slider-img-1.jpg"
     - "images/slider/slider-img-2.jpg"
     - "images/slider/slider-img-3.jpg"
     - "images/slider/slider-img-4.jpg"
-    - "images/slider/slider-img-1.jpg"
-    - "images/slider/slider-img-2.jpg"
-    - "images/slider/slider-img-3.jpg"
-    - "images/slider/slider-img-4.jpg"
+    - "images/slider/slider-img-5.jpg"
+    - "images/slider/slider-img-6.jpg"
+    - "images/slider/slider-img-7.jpg"
+    - "images/slider/slider-img-8.jpg"
 
 ################ About #######################
 about:
   enable : true
   image : "images/cooker-img.png"
-  title : "Featured Your <span> Restaurant’s</span> Website Has To Look Good"
-  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in </br>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat Ut enim ad minim veniam"
+  title : "Tentang Kami"
+  description : "Di Noesantara Coffee and Culinary, kami percaya bahwa setiap cangkir kopi dan hidangan memiliki cerita. Berdiri sejak tahun 2021, kami adalah kafe yang berkomitmen untuk menghadirkan rasa otentik Nusantara melalui kopi premium dan hidangan khas dari berbagai daerah di Indonesia.\n
+Nama “Noesantara” terinspirasi oleh ejaan lama yang mencerminkan keragaman budaya kuliner Indonesia. Kami tidak hanya menyajikan menu, tetapi juga membawa Anda pada perjalanan rasa, mulai dari kopi Gayo yang kaya hingga tongseng khas Jawa Tengah.\n
+
+Kopi kami berasal dari biji kopi berkualitas tinggi yang dipetik langsung dari petani lokal, diproses dengan cermat untuk menghadirkan rasa terbaik di setiap tegukan. Tidak hanya kopi, hidangan kami juga dibuat dengan bahan-bahan pilihan, menciptakan harmoni rasa yang memanjakan.\n
+
+Sebagai rumah bagi rasa dan kenangan, Noesantara tidak hanya menyediakan ruang untuk menikmati kopi dan makanan, tetapi juga menjadi tempat di mana ide-ide besar dimulai, cerita dibagikan, dan pengalaman tak terlupakan tercipta.\n
+
+Selamat datang di Noesantara Coffee and Culinary. Jelajahi rasa, rasakan kehangatan, dan temukan harmoni di setiap kunjungan Anda."
   
 ################# Blog ######################
 blog:
@@ -42,23 +49,21 @@ pricing:
   pricing_item:
   - title: "Pancakes n' Such Titas"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 125.00"
+   
 
   - title: "Caesar Salad"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 100.00"
+
 
   - title: "Steak with a Garlic and Parsley Risotto"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 20.00"
+
 
   - title: "Meat of Skewers"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 45.00"
 
   - title: "Pancakes n' Such"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 25.00"
 
 ################### Subscription ################
 subscription:
