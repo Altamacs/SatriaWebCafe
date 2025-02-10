@@ -9,29 +9,31 @@ gallery:
   enable : true
   title : "Menu Baru"
   images:
-    - "images/slider/slider-img-1.jpg"
-    - "images/slider/slider-img-2.jpg"
-    - "images/slider/slider-img-3.jpg"
-    - "images/slider/slider-img-4.jpg"
-    - "images/slider/slider-img-5.jpg"
-    - "images/slider/slider-img-6.jpg"
-    - "images/slider/slider-img-7.jpg"
-    - "images/slider/slider-img-8.jpg"
+    - "images/slider/slider-img-1.png"
+    - "images/slider/slider-img-2.png"
+    - "images/slider/slider-img-3.png"
+    - "images/slider/slider-img-4.png"
+    - "images/slider/slider-img-5.png"
+    - "images/slider/slider-img-6.png"
+    - "images/slider/slider-img-7.png"
+    - "images/slider/slider-img-8.png"
+    - "images/slider/slider-img-9.png"
 
 ################ About #######################
 about:
   enable : true
   image : "images/cooker-img.png"
   title : "Tentang Kami"
-  description : "Di Noesantara Coffee and Culinary, kami percaya bahwa setiap cangkir kopi dan hidangan memiliki cerita. Berdiri sejak tahun 2021, kami adalah kafe yang berkomitmen untuk menghadirkan rasa otentik Nusantara melalui kopi premium dan hidangan khas dari berbagai daerah di Indonesia.\n
-Nama “Noesantara” terinspirasi oleh ejaan lama yang mencerminkan keragaman budaya kuliner Indonesia. Kami tidak hanya menyajikan menu, tetapi juga membawa Anda pada perjalanan rasa, mulai dari kopi Gayo yang kaya hingga tongseng khas Jawa Tengah.\n
+  description : "Di The ATAP Cafe & Eatery, kami percaya bahwa setiap hidangan dan secangkir kopi memiliki cerita tersendiri. Berdiri sebagai kafe rooftop yang nyaman dan modern, kami menghadirkan pengalaman kuliner dengan sentuhan khas Sunda yang autentik, dipadukan dengan pilihan kopi modern yang menggugah selera.
 
-Kopi kami berasal dari biji kopi berkualitas tinggi yang dipetik langsung dari petani lokal, diproses dengan cermat untuk menghadirkan rasa terbaik di setiap tegukan. Tidak hanya kopi, hidangan kami juga dibuat dengan bahan-bahan pilihan, menciptakan harmoni rasa yang memanjakan.\n
+Nama 'The ATAP' mencerminkan konsep kami yang berada di atas atap, memberikan Anda pemandangan yang menenangkan sambil menikmati sajian berkualitas. Kami tidak hanya menawarkan tempat untuk bersantai, tetapi juga menghadirkan cita rasa khas Sunda yang kaya dengan bahan-bahan segar dan bumbu pilihan.
 
-Sebagai rumah bagi rasa dan kenangan, Noesantara tidak hanya menyediakan ruang untuk menikmati kopi dan makanan, tetapi juga menjadi tempat di mana ide-ide besar dimulai, cerita dibagikan, dan pengalaman tak terlupakan tercipta.\n
+Dari nasi liwet, gepuk, hingga pepes ikan, setiap hidangan dibuat dengan resep tradisional yang diwariskan dari generasi ke generasi. Sementara itu, kopi kami diracik dari biji pilihan, menghadirkan pengalaman rasa yang sempurna, mulai dari espresso klasik hingga signature coffee yang unik.
 
-Selamat datang di Noesantara Coffee and Culinary. Jelajahi rasa, rasakan kehangatan, dan temukan harmoni di setiap kunjungan Anda."
-  
+Sebagai tempat di mana rasa dan kehangatan berkumpul, The ATAP Cafe & Eatery bukan sekadar tempat makan, tetapi juga ruang bagi momen berharga, pertemuan hangat, dan kenangan yang tak terlupakan.
+
+Selamat datang di The ATAP Cafe & Eatery. Nikmati suasana, jelajahi rasa, dan ciptakan cerita baru di setiap kunjungan Anda."
+
 ################# Blog ######################
 blog:
   enable : true
