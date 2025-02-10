@@ -1,21 +1,21 @@
 ############################## navigation ###############################
 
-[[menu.main]]
+[[main]]
 name = "Home"
 URL = "hero-area"
 weight = 1
 
-[[menu.main]]
+[[main]]
 name = "About Us"
 URL = "about-us"
 weight = 2
 
-[[menu.main]]
+[[main]]
 name = "Blog"
 URL = "blog"
 weight = 3
 
-[[menu.main]]
+[[main]]
 name = "Contact"
 URL = "footer"
 weight = 4
