@@ -30,8 +30,8 @@ link = "tel:01612345678"
 [[params.footer.contactItem]]
 title = "Address"
 icon = "fa fa-map-marker"
-content = "2046 Blue Spruce Lane Laurel Canada"
-link = "https://maps.app.goo.gl/GvGx9KQLvUewKz769"
+content = "The Atap Cafe & Eatery"
+link = "https://maps.app.goo.gl/HUcMPuACfoZ6nkYy8"
 
 [[params.footer.contactItem]]
 title = "E-mail"
