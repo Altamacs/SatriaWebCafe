@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://demo.gethugothemes.com/restaurant/examplesite/"
 languageCode = "en-us"
-title = "Noesantara Coffee And Culinary"
+title = "The Atap Cafe And Eatery"
 theme = "restaurant-hugo"
 summaryLength = "10"
 paginate = 4
